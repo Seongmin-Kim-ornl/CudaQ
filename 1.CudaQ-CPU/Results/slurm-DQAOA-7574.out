@@ -1,4 +1,0 @@
-Mon Aug 25 09:19:35 AM EDT 2025
-srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
-[2025-08-25T14:35:33.434] error: *** STEP 7574.0 ON defiant02 CANCELLED AT 2025-08-25T14:35:33 DUE to SIGNAL Terminated ***
-[2025-08-25T14:35:33.435] error: *** JOB 7574 ON defiant02 CANCELLED AT 2025-08-25T14:35:33 DUE to SIGNAL Terminated ***
