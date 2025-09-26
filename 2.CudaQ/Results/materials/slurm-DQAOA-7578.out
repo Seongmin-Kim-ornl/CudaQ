@@ -1,0 +1,78 @@
+Mon Aug 25 01:33:24 PM EDT 2025
+energy: -5.771328999999999
+elapsed time: 4329.000978946686
+energy: -5.737276
+elapsed time: 4682.573191642761
+energy: -5.3615129999999995
+elapsed time: 4497.916855335236
+energy: -5.760941
+elapsed time: 4149.24782538414
+energy: -5.568436999999999
+elapsed time: 4589.879540681839
+energy: -5.5527809999999995
+elapsed time: 4581.320751428604
+======= DQAOA result =======
+problem size: 100, subQ size: 28, iters: 10, num subQ: 16
+avg energy -5.5961896, avg time: 4500.187632894516
+======= DQAOA result =======
+energy: -43.852101000000005
+elapsed time: 1872.2297229766846
+energy: -43.86292399999999
+elapsed time: 2058.5355563163757
+energy: -42.851962
+elapsed time: 1928.0957543849945
+energy: -43.162738
+elapsed time: 2006.2450442314148
+energy: -43.320901000000006
+elapsed time: 2052.3574645519257
+energy: -43.51632700000001
+elapsed time: 1989.0167734622955
+======= DQAOA result =======
+problem size: 300, subQ size: 28, iters: 10, num subQ: 16
+avg energy -43.342970400000006, avg time: 2006.8501185894013
+======= DQAOA result =======
+energy: -368.5335940000001
+elapsed time: 1285.5740442276
+energy: -374.110487
+elapsed time: 1129.437524318695
+energy: -380.21485099999995
+elapsed time: 1236.0719809532166
+energy: -374.10708800000003
+elapsed time: 1190.346667766571
+energy: -373.76764000000003
+elapsed time: 1224.1762881278992
+energy: -379.2909080000002
+elapsed time: 1174.713216304779
+======= DQAOA result =======
+problem size: 500, subQ size: 28, iters: 10, num subQ: 16
+avg energy -376.29819480000003, avg time: 1190.9491354942322
+======= DQAOA result =======
+FileNotFoundError: [Errno 2] No such file or directory: 'QUBO_1000.txt'
+FileNotFoundError: [Errno 2] No such file or directory: 'QUBO_1000.txt'
+FileNotFoundError: [Errno 2] No such file or directory: 'QUBO_1000.txt'
+FileNotFoundError: [Errno 2] No such file or directory: 'QUBO_1000.txt'
+FileNotFoundError: [Errno 2] No such file or directory: 'QUBO_1000.txt'
+FileNotFoundError: [Errno 2] No such file or directory: 'QUBO_1000.txt'
+FileNotFoundError: [Errno 2] No such file or directory: 'QUBO_1000.txt'
+FileNotFoundError: [Errno 2] No such file or directory: 'QUBO_1000.txt'
+FileNotFoundError: [Errno 2] No such file or directory: 'QUBO_1000.txt'
+FileNotFoundError: [Errno 2] No such file or directory: 'QUBO_1000.txt'
+FileNotFoundError: [Errno 2] No such file or directory: 'QUBO_1000.txt'
+FileNotFoundError: [Errno 2] No such file or directory: 'QUBO_1000.txt'
+FileNotFoundError: [Errno 2] No such file or directory: 'QUBO_1000.txt'
+FileNotFoundError: [Errno 2] No such file or directory: 'QUBO_1000.txt'
+FileNotFoundError: [Errno 2] No such file or directory: 'QUBO_1000.txt'
+FileNotFoundError: [Errno 2] No such file or directory: 'QUBO_1000.txt'
+srun: error: defiant-nv02: task 13: Exited with exit code 1
+srun: Terminating StepId=7578.0
+[2025-08-26T02:20:00.957] error: *** STEP 7578.0 ON defiant-nv01 CANCELLED AT 2025-08-26T02:20:00 DUE TO TASK FAILURE ***
+srun: error: defiant-nv02: tasks 9,11: Exited with exit code 1
+srun: error: defiant-nv01: tasks 0,5: Exited with exit code 1
+srun: error: defiant-nv02: task 15: Exited with exit code 1
+srun: error: defiant-nv01: tasks 3,6: Exited with exit code 1
+srun: error: defiant-nv01: tasks 4,7: Exited with exit code 1
+srun: error: defiant-nv02: tasks 10,12: Exited with exit code 1
+srun: error: defiant-nv01: task 2: Exited with exit code 1
+srun: error: defiant-nv02: task 8: Exited with exit code 1
+srun: error: defiant-nv01: task 1: Exited with exit code 1
+srun: error: defiant-nv02: task 14: Exited with exit code 1

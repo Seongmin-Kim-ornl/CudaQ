@@ -1,0 +1,385 @@
+Fri Aug 15 11:17:30 AM EDT 2025
+energy: -5.2682210000000005
+elapsed time: 9.974963426589966
+energy: -4.793291
+elapsed time: 11.91974425315857
+energy: -5.165090999999999
+elapsed time: 9.204742670059204
+energy: -5.068958
+elapsed time: 16.21647596359253
+energy: -4.932333
+elapsed time: 11.799215078353882
+energy: -5.365148
+elapsed time: 8.1417236328125
+======= DQAOA result =======
+problem size: 100, subQ size: 4, iters: 10, num subQ: 16
+avg energy -5.0649642, avg time: 11.456380319595336
+======= DQAOA result =======
+energy: -5.233421999999999
+elapsed time: 16.369163513183594
+energy: -5.346058
+elapsed time: 9.1491539478302
+energy: -5.192062
+elapsed time: 6.421480178833008
+energy: -5.211985
+elapsed time: 13.095415830612183
+energy: -4.94898
+elapsed time: 9.600287675857544
+energy: -5.398174999999998
+elapsed time: 12.351291418075562
+======= DQAOA result =======
+problem size: 100, subQ size: 6, iters: 10, num subQ: 16
+avg energy -5.2194519999999995, avg time: 10.123525810241699
+======= DQAOA result =======
+energy: -5.570704
+elapsed time: 33.72045946121216
+energy: -5.583041999999999
+elapsed time: 16.06621265411377
+energy: -5.676986
+elapsed time: 21.65529751777649
+energy: -5.428876
+elapsed time: 21.68022060394287
+energy: -5.376570999999999
+elapsed time: 25.427231073379517
+energy: -5.589958
+elapsed time: 34.44160723686218
+======= DQAOA result =======
+problem size: 100, subQ size: 8, iters: 10, num subQ: 16
+avg energy -5.531086599999999, avg time: 23.854113817214966
+======= DQAOA result =======
+energy: -5.6141499999999995
+elapsed time: 162.55476784706116
+energy: -5.561165
+elapsed time: 234.83588123321533
+energy: -5.32104
+elapsed time: 127.0043134689331
+energy: -5.455876
+elapsed time: 149.778870344162
+energy: -5.533649
+elapsed time: 144.5620756149292
+energy: -5.384369
+elapsed time: 126.3057632446289
+======= DQAOA result =======
+problem size: 100, subQ size: 10, iters: 10, num subQ: 16
+avg energy -5.4512198, avg time: 156.49738078117372
+======= DQAOA result =======
+energy: -5.622513
+elapsed time: 752.0329728126526
+energy: -5.742259
+elapsed time: 1219.2934439182281
+energy: -5.674931000000001
+elapsed time: 678.169527053833
+energy: -5.52572
+elapsed time: 544.4882719516754
+energy: -5.399056
+elapsed time: 880.7718706130981
+energy: -5.461406
+elapsed time: 813.253604888916
+======= DQAOA result =======
+problem size: 100, subQ size: 12, iters: 10, num subQ: 16
+avg energy -5.5606744, avg time: 827.1953436851502
+======= DQAOA result =======
+energy: -5.785009
+elapsed time: 7858.2875871658325
+energy: -5.350389
+elapsed time: 4207.18445110321
+energy: -5.76432
+elapsed time: 3577.4272162914276
+energy: -5.709505
+elapsed time: 4499.870480775833
+energy: -5.512604
+elapsed time: 4761.028462409973
+energy: -5.664894
+elapsed time: 3653.6567018032074
+======= DQAOA result =======
+problem size: 100, subQ size: 14, iters: 10, num subQ: 16
+avg energy -5.6003424, avg time: 4139.83346247673
+======= DQAOA result =======
+energy: -31.490670000000005
+elapsed time: 3.3225784301757812
+energy: -30.635789999999993
+elapsed time: 4.893524885177612
+energy: -27.207225999999995
+elapsed time: 9.019511699676514
+energy: -28.530973999999993
+elapsed time: 4.272454738616943
+energy: -24.857204999999997
+elapsed time: 5.353240013122559
+energy: -28.617253999999996
+elapsed time: 6.242052316665649
+======= DQAOA result =======
+problem size: 300, subQ size: 4, iters: 10, num subQ: 16
+avg energy -27.969689799999998, avg time: 5.9561567306518555
+======= DQAOA result =======
+energy: -35.534043999999994
+elapsed time: 3.916029691696167
+energy: -33.802705
+elapsed time: 6.069517374038696
+energy: -33.583237000000004
+elapsed time: 4.857572793960571
+energy: -32.22555
+elapsed time: 3.806034803390503
+energy: -34.561082000000006
+elapsed time: 4.884149551391602
+energy: -32.115604999999995
+elapsed time: 4.466282844543457
+======= DQAOA result =======
+problem size: 300, subQ size: 6, iters: 10, num subQ: 16
+avg energy -33.257635799999996, avg time: 4.816711473464966
+======= DQAOA result =======
+energy: -38.290066
+elapsed time: 8.13212513923645
+energy: -36.47735699999999
+elapsed time: 8.145153999328613
+energy: -36.06271699999999
+elapsed time: 6.669412851333618
+energy: -38.055697
+elapsed time: 8.168280601501465
+energy: -37.946625999999995
+elapsed time: 10.937509775161743
+energy: -39.062172
+elapsed time: 6.771897792816162
+======= DQAOA result =======
+problem size: 300, subQ size: 8, iters: 10, num subQ: 16
+avg energy -37.5209138, avg time: 8.13845100402832
+======= DQAOA result =======
+energy: -40.050675999999996
+elapsed time: 34.18998146057129
+energy: -39.26222799999999
+elapsed time: 26.829957246780396
+energy: -38.804382000000004
+elapsed time: 42.04604959487915
+energy: -37.980485
+elapsed time: 60.203349113464355
+energy: -41.30355600000001
+elapsed time: 94.4343581199646
+energy: -37.89735099999999
+elapsed time: 48.75801420211792
+======= DQAOA result =======
+problem size: 300, subQ size: 10, iters: 10, num subQ: 16
+avg energy -39.049600399999996, avg time: 54.45434565544129
+======= DQAOA result =======
+energy: -40.617543999999995
+elapsed time: 276.9652338027954
+energy: -40.778082999999995
+elapsed time: 280.021648645401
+energy: -41.304499
+elapsed time: 197.89188766479492
+energy: -40.442930999999994
+elapsed time: 230.28629350662231
+energy: -40.280804
+elapsed time: 225.11610579490662
+energy: -40.829704
+elapsed time: 211.70271801948547
+======= DQAOA result =======
+problem size: 300, subQ size: 12, iters: 10, num subQ: 16
+avg energy -40.727204199999996, avg time: 229.00373072624205
+======= DQAOA result =======
+energy: -41.63810400000001
+elapsed time: 1279.6210339069366
+energy: -40.708352999999995
+elapsed time: 1058.9817214012146
+energy: -41.237590000000004
+elapsed time: 1182.1456220149994
+energy: -40.801954
+elapsed time: 1460.9728503227234
+energy: -41.408863000000004
+elapsed time: 1727.2040836811066
+energy: -41.412035
+elapsed time: 1187.9833405017853
+======= DQAOA result =======
+problem size: 300, subQ size: 14, iters: 10, num subQ: 16
+avg energy -41.113759, avg time: 1323.4575235843658
+======= DQAOA result =======
+energy: -225.15359700000005
+elapsed time: 2.3273093700408936
+energy: -255.65057600000006
+elapsed time: 2.047222137451172
+energy: -244.763644
+elapsed time: 2.941250801086426
+energy: -250.50293700000003
+elapsed time: 2.8503804206848145
+energy: -240.5429300000001
+elapsed time: 2.23331880569458
+energy: -221.85088799999994
+elapsed time: 1.9246890544891357
+======= DQAOA result =======
+problem size: 500, subQ size: 4, iters: 10, num subQ: 16
+avg energy -242.66219500000003, avg time: 2.3993722438812255
+======= DQAOA result =======
+energy: -280.30627899999996
+elapsed time: 2.230417251586914
+energy: -281.9107430000001
+elapsed time: 2.5408074855804443
+energy: -274.922177
+elapsed time: 2.2759346961975098
+energy: -276.004115
+elapsed time: 2.4722483158111572
+energy: -277.73679400000003
+elapsed time: 2.128176212310791
+energy: -272.3096330000001
+elapsed time: 2.318619966506958
+======= DQAOA result =======
+problem size: 500, subQ size: 6, iters: 10, num subQ: 16
+avg energy -276.5766924, avg time: 2.347157335281372
+======= DQAOA result =======
+energy: -296.4361130000001
+elapsed time: 3.9853546619415283
+energy: -297.540576
+elapsed time: 3.4013359546661377
+energy: -290.114239
+elapsed time: 4.544493913650513
+energy: -291.5568240000001
+elapsed time: 4.125638484954834
+energy: -288.703895
+elapsed time: 5.416594505310059
+energy: -306.012043
+elapsed time: 3.7644424438476562
+======= DQAOA result =======
+problem size: 500, subQ size: 8, iters: 10, num subQ: 16
+avg energy -294.7855154, avg time: 4.25050106048584
+======= DQAOA result =======
+energy: -306.7881560000001
+elapsed time: 23.611407995224
+energy: -317.346046
+elapsed time: 15.700471878051758
+energy: -313.8355770000001
+elapsed time: 16.683446168899536
+energy: -316.49028899999996
+elapsed time: 21.284584045410156
+energy: -310.85352400000005
+elapsed time: 17.63131546974182
+energy: -310.43078499999996
+elapsed time: 19.373717069625854
+======= DQAOA result =======
+problem size: 500, subQ size: 10, iters: 10, num subQ: 16
+avg energy -313.79124420000005, avg time: 18.134706926345824
+======= DQAOA result =======
+energy: -334.445438
+elapsed time: 149.56615924835205
+energy: -323.7556179999999
+elapsed time: 148.5428581237793
+energy: -331.8015510000001
+elapsed time: 145.94925570487976
+energy: -349.51574199999993
+elapsed time: 130.84577703475952
+energy: -334.2840410000001
+elapsed time: 114.90313816070557
+energy: -338.82674400000013
+elapsed time: 87.12140035629272
+======= DQAOA result =======
+problem size: 500, subQ size: 12, iters: 10, num subQ: 16
+avg energy -335.6367392000001, avg time: 125.47248587608337
+======= DQAOA result =======
+energy: -344.73209199999997
+elapsed time: 560.4355750083923
+energy: -360.15132999999986
+elapsed time: 727.348797082901
+energy: -346.044185
+elapsed time: 516.5984766483307
+energy: -351.81349100000006
+elapsed time: 487.85633659362793
+energy: -336.6075400000001
+elapsed time: 513.4734480381012
+energy: -345.631718
+elapsed time: 664.0323724746704
+======= DQAOA result =======
+problem size: 500, subQ size: 14, iters: 10, num subQ: 16
+avg energy -348.04965280000005, avg time: 581.8618861675262
+======= DQAOA result =======
+energy: -2279.2772830000004
+elapsed time: 4.763368368148804
+energy: -2421.533387000001
+elapsed time: 4.241375207901001
+energy: -2397.701361
+elapsed time: 4.455012083053589
+energy: -2135.2614989999997
+elapsed time: 4.408715009689331
+energy: -2286.351523
+elapsed time: 4.283869028091431
+energy: -2125.371881
+elapsed time: 4.335421085357666
+======= DQAOA result =======
+problem size: 1000, subQ size: 4, iters: 10, num subQ: 16
+avg energy -2273.2439302, avg time: 4.344878482818603
+======= DQAOA result =======
+energy: -2540.832771
+elapsed time: 4.857646226882935
+energy: -2594.021329
+elapsed time: 4.9828572273254395
+energy: -2610.7904880000006
+elapsed time: 5.13180136680603
+energy: -2648.946068
+elapsed time: 4.76398491859436
+energy: -2571.3327579999996
+elapsed time: 5.01947808265686
+energy: -2542.3045530000004
+elapsed time: 4.798501253128052
+======= DQAOA result =======
+problem size: 1000, subQ size: 6, iters: 10, num subQ: 16
+avg energy -2593.4790392, avg time: 4.939324569702149
+======= DQAOA result =======
+energy: -2898.02492
+elapsed time: 7.129586458206177
+energy: -2780.513943000001
+elapsed time: 7.093148469924927
+energy: -2736.911633
+elapsed time: 6.9246790409088135
+energy: -2632.713227
+elapsed time: 7.386031866073608
+energy: -2787.2549229999995
+elapsed time: 7.0343499183654785
+energy: -2789.7807390000003
+elapsed time: 7.548175811767578
+======= DQAOA result =======
+problem size: 1000, subQ size: 8, iters: 10, num subQ: 16
+avg energy -2745.4348930000006, avg time: 7.197277021408081
+======= DQAOA result =======
+energy: -2955.550908
+elapsed time: 25.502230882644653
+energy: -2948.578908
+elapsed time: 21.90688991546631
+energy: -2965.439841
+elapsed time: 23.32775568962097
+energy: -2933.9203269999994
+elapsed time: 21.56720495223999
+energy: -2874.2805759999997
+elapsed time: 25.465123891830444
+energy: -2872.421609999999
+elapsed time: 25.938865184783936
+======= DQAOA result =======
+problem size: 1000, subQ size: 10, iters: 10, num subQ: 16
+avg energy -2918.9282523999996, avg time: 23.64116792678833
+======= DQAOA result =======
+energy: -2991.3110140000003
+elapsed time: 167.76996755599976
+energy: -3028.676408
+elapsed time: 130.97507739067078
+energy: -3029.5258889999996
+elapsed time: 129.46464157104492
+energy: -3018.279097
+elapsed time: 148.33088493347168
+energy: -3030.940611
+elapsed time: 122.49905204772949
+energy: -3166.944032
+elapsed time: 140.0140416622162
+======= DQAOA result =======
+problem size: 1000, subQ size: 12, iters: 10, num subQ: 16
+avg energy -3054.8732074, avg time: 134.25673952102662
+======= DQAOA result =======
+energy: -3084.9439709999997
+elapsed time: 887.8946840763092
+energy: -3208.884424
+elapsed time: 1214.685507774353
+energy: -3161.994525
+elapsed time: 863.7814717292786
+energy: -3073.737268
+elapsed time: 740.0453402996063
+energy: -3087.598516000001
+elapsed time: 929.6997690200806
+energy: -3163.9757809999996
+elapsed time: 747.3486764431
+======= DQAOA result =======
+problem size: 1000, subQ size: 14, iters: 10, num subQ: 16
+avg energy -3139.2381028, avg time: 899.1121530532837
+======= DQAOA result =======

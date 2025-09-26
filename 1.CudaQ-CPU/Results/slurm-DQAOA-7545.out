@@ -1,0 +1,29 @@
+Thu Aug 21 09:28:55 AM EDT 2025
+/autofs/nccsopen-svm1_home/gvk/defiant/CudaQ/CudaQ/lib/python3.11/site-packages/numpy/_core/fromnumeric.py:3860: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/autofs/nccsopen-svm1_home/gvk/defiant/CudaQ/CudaQ/lib/python3.11/site-packages/numpy/_core/_methods.py:145: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+energy: -3.9760989999999996
+elapsed time: 10505.192057847977
+======= DQAOA result =======
+problem size: 100, subQ size: 18, iters: 1, num subQ: 16
+avg energy nan, avg time: nan
+======= DQAOA result =======
+energy: -20.143883999999996
+elapsed time: 3329.282938480377
+======= DQAOA result =======
+problem size: 300, subQ size: 18, iters: 1, num subQ: 16
+avg energy nan, avg time: nan
+======= DQAOA result =======
+energy: -153.674995
+elapsed time: 1819.62695646286
+======= DQAOA result =======
+problem size: 500, subQ size: 18, iters: 1, num subQ: 16
+avg energy nan, avg time: nan
+======= DQAOA result =======
+energy: -1081.046442
+elapsed time: 2598.3193171024323
+======= DQAOA result =======
+problem size: 1000, subQ size: 18, iters: 1, num subQ: 16
+avg energy nan, avg time: nan
+======= DQAOA result =======

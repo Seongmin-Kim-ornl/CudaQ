@@ -1,0 +1,17 @@
+Thu Aug 21 09:51:49 AM EDT 2025
+energy: -5.694307
+elapsed time: 24206.2851023674
+energy: -5.762284
+elapsed time: 22211.053478956223
+======= DQAOA result =======
+problem size: 100, subQ size: 16, iters: 10, num subQ: 16
+avg energy -5.762284, avg time: 22211.053478956223
+======= DQAOA result =======
+energy: -348.03809700000016
+elapsed time: 3570.50789475441
+energy: -355.7696920000001
+elapsed time: 3609.654944419861
+======= DQAOA result =======
+problem size: 500, subQ size: 16, iters: 10, num subQ: 16
+avg energy -355.7696920000001, avg time: 3609.654944419861
+======= DQAOA result =======
